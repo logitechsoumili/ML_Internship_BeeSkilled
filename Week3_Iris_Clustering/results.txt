@@ -1,0 +1,6 @@
+K-Means Clustering on Iris Dataset
+
+Confusion Matrix:
+[[ 0 50  0]
+ [48  0  2]
+ [14  0 36]]
